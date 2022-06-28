@@ -15,10 +15,8 @@ Repository ini merupakan repository untuk Tugas Kecil 1 Mata Kuliah IF4020 - Kri
 
 Aplikasi yang kami bangun adalah aplikasi berbasis web. Adapun teknologi yang kami gunakan untuk membangun aplikasi ini adalah bahasa Javascript dengan menggunakan *framework* express.
 
-## Anggota Kelompok
 
-- Juniardi Akbar        - 13517075
-- Irfan Sofyana Putra   - 13517078
+
 
 ## Requirement Aplikasi
 
